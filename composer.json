@@ -34,5 +34,6 @@
             "TheCodeBunny\\eBayApi\\Test\\": "test/"
         },
         "classmap": ["build/"]
-    }
+    },
+    "minimum-stability": "dev"
 }
