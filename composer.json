@@ -5,6 +5,7 @@
     "homepage": "https://hemangvyas.com/",
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
+    "version": "4.0",
     "authors": [
         {
             "name": "Hemang Vyas",
